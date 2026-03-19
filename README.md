@@ -1,5 +1,6 @@
 # Google colab
-# Primeira etapa tratar os dados de importação por anos e por último junta los em um único arquivo.
+
+# Primeira etapa tratar os dados de importação dos anos de 2021 e 2022 e por último junta los em um único arquivo, fazer o mesmo para os outros anos
 
 > Parte I
 
@@ -40,6 +41,14 @@
 > Etapa final
 
 <img width="1043" height="870" alt="Captura de tela 2026-03-19 172138" src="https://github.com/user-attachments/assets/95aace2f-af5e-41c9-86b7-7c2555c7cd89" />
+
+# Dashboard do arquivo
+
+> Para a criação tive que utilizar formulas dax no Power BI, criei medida de calendario, uma soma total, saldo da balança comercial, total exportação, total importação, uma metrica para medir o KPI.
+
+> Um Gráfico por ano , outro por mês , um de KPI, um top dez parceiros comerciais e produtos comercializados. 
+
+https://github.com/user-attachments/assets/3752b19f-3882-4975-a1cf-594847a450f1
 
 
 
