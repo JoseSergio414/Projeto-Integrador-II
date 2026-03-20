@@ -1,6 +1,6 @@
 # Google colab
 
-# Primeira etapa tratar os dados de importação dos anos de 2021 e 2022 e por último junta los em um único arquivo, fazer o mesmo para os outros anos
+# Primeira etapa tratar os dados de importação dos anos de 2021 e 2022 e por último junta-los em um único arquivo, fazer o mesmo para os outros anos
 
 > Parte I
 
@@ -25,7 +25,7 @@
 
 <img width="1032" height="904" alt="Captura de tela 2026-03-19 170837" src="https://github.com/user-attachments/assets/0299647f-cb45-4fa5-8e31-f39f9606ed24" />
 
-# Primeira etapa tratar os dados de exportação dos anos de 2021 e 2022 e por último junta los em um único arquivo, fazer o mesmo para os outros anos
+# Primeira etapa tratar os dados de exportação dos anos de 2021 e 2022 e por último junta-los em um único arquivo, fazer o mesmo para os outros anos
 
 > Parte I
 
