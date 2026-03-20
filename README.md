@@ -12,7 +12,8 @@
 
 > Parte III
 
-> <img width="1058" height="901" alt="Captura de tela 2026-03-19 170623" src="https://github.com/user-attachments/assets/5339052b-85e6-4c6c-992b-20dfc9036b52" />
+> <<img width="1058" height="901" alt="Captura de tela 2026-03-19 170623" src="https://github.com/user-attachments/assets/970ea08f-ec2a-458b-9e47-d6930f6dd728" />
+
 
 > Final
 
