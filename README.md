@@ -42,8 +42,11 @@
 
 > Unindos os três arquivos em um único arquivo
 
+<img width="1250" height="913" alt="Captura de tela 2026-03-19 211719" src="https://github.com/user-attachments/assets/36bc9917-1c43-41be-bf2d-b8ee612525f0" />
+
+
 > Renomei colunas para melhor vizualizção e finalizei o arquivo
-> 
+
 <img width="1317" height="899" alt="Captura de tela 2026-03-19 171913" src="https://github.com/user-attachments/assets/890cbeb5-bda5-4946-aaaf-c070a7ab83c3" />
 
 # Terceira e útima etapa etapa tratar dados de exportação e importação e junta los em um único arquivo Dado finaiL.
