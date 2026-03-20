@@ -16,6 +16,12 @@
 
 > Final
 
+> Unindos os três arquivos em um único arquivo
+
+<img width="1067" height="879" alt="Captura de tela 2026-03-19 210002" src="https://github.com/user-attachments/assets/6d80142f-e16f-4ac2-92ee-bbc899a2511c" />
+
+> Renomei colunas para melhor vizualizção e finalizei o arquivo
+
 <img width="1032" height="904" alt="Captura de tela 2026-03-19 170837" src="https://github.com/user-attachments/assets/0299647f-cb45-4fa5-8e31-f39f9606ed24" />
 
 # Segunda etapa tratar dados de exportação por anos e por último junta los em um único arquivo.
