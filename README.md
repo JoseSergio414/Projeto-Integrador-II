@@ -37,7 +37,8 @@
 
 > Pate III
 
-<img width="1016" height="902" alt="Captura de tela 2026-03-19 171816" src="https://github.com/user-attachments/assets/c5e06986-ca1b-4a6f-bb7c-827391c828f8" />
+<img width="1078" height="940" alt="Captura de tela 2026-03-19 171724" src="https://github.com/user-attachments/assets/87baadf2-0b69-428d-b5ee-43e8dc2ac672" />
+
 
 > Final
 
