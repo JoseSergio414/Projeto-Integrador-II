@@ -24,7 +24,7 @@
 
 <img width="1032" height="904" alt="Captura de tela 2026-03-19 170837" src="https://github.com/user-attachments/assets/0299647f-cb45-4fa5-8e31-f39f9606ed24" />
 
-# Segunda etapa tratar dados de exportação por anos e por último junta los em um único arquivo.
+# Primeira etapa tratar os dados de exportação dos anos de 2021 e 2022 e por último junta los em um único arquivo, fazer o mesmo para os outros anos
 
 > Parte I
 
@@ -45,6 +45,12 @@
 # Terceira e útima etapa etapa tratar dados de exportação e importação e junta los em um único arquivo Dados finais.
 
 > Etapa final
+
+> Unindos os três arquivos em um único arquivo
+
+<img width="1433" height="912" alt="Captura de tela 2026-03-19 210602" src="https://github.com/user-attachments/assets/e4150769-77bc-4a3f-b51e-3f87cfb3526d" />
+
+> Renomei colunas para melhor vizualizção e finalizei o arquivo
 
 <img width="1043" height="870" alt="Captura de tela 2026-03-19 172138" src="https://github.com/user-attachments/assets/95aace2f-af5e-41c9-86b7-7c2555c7cd89" />
 
