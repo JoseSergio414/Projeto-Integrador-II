@@ -2,20 +2,20 @@
 
 # Primeira etapa tratar os dados de importação dos anos de 2021 e 2022 e por último junta-los em um único arquivo, fazer o mesmo para os outros anos
 
-> Parte I
+> Parte I (Ano 2021 e 2022)
 
 <img width="1362" height="917" alt="Captura de tela 2026-03-19 170039" src="https://github.com/user-attachments/assets/4dd0a562-2d58-47ef-a401-ab5436609376" />
 
-> Parte II
+> Parte II (Ano 2023 e 2024)
 
 <img width="1233" height="909" alt="Captura de tela 2026-03-19 170319" src="https://github.com/user-attachments/assets/96a59e56-9666-443f-b62e-f9631fb6c576" />
 
-> Parte III
+> Parte III (Ano 2025 e 2026)
 
 > <<img width="1058" height="901" alt="Captura de tela 2026-03-19 170623" src="https://github.com/user-attachments/assets/970ea08f-ec2a-458b-9e47-d6930f6dd728" />
 
 
-> Final
+> Final 
 
 > Unindos os três arquivos em um único arquivo
 
@@ -27,15 +27,15 @@
 
 # Primeira etapa tratar os dados de exportação dos anos de 2021 e 2022 e por último junta-los em um único arquivo, fazer o mesmo para os outros anos
 
-> Parte I
+> Parte I (Ano 2021 e 2022)
 
 <img width="1000" height="915" alt="Captura de tela 2026-03-19 171310" src="https://github.com/user-attachments/assets/92bae4f8-5ff4-4847-80f2-767ddf5a4520" />
 
-> Parte II
+> Parte II (Ano 2023 e 2024)
 
 <img width="1088" height="903" alt="Captura de tela 2026-03-19 171635" src="https://github.com/user-attachments/assets/8af3e2a8-a151-4514-a111-81d31453f2e2" />
 
-> Pate III
+> Pate III (Ano 2025 e 2026)
 
 <img width="1078" height="940" alt="Captura de tela 2026-03-19 171724" src="https://github.com/user-attachments/assets/87baadf2-0b69-428d-b5ee-43e8dc2ac672" />
 
